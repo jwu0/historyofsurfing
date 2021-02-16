@@ -1,0 +1,48 @@
+body{
+  background-image: url('https://safarisurfadventures.com/wp-content/uploads/background-surfing-00.jpg');
+  background-repeat: no-repeat;
+}
+
+h1{
+  text-align: center;
+  color: yellow;
+  font-family: Hanalei;
+}
+
+h2{
+  text-align: center;
+  color: yellow;
+  font-family: Hanalei;
+}
+
+p {
+  text-align: center;
+  color: yellow;
+  margin: 50px 50px 50px 50px;
+  font-family: Pacifico;
+}
+
+img {
+  float: left;
+}
+
+.surfer1{
+  width: 300px;
+  height: 200px;
+}
+.surfer2{
+  width: 300px;
+  height: 200px;
+}
+.surfer3{
+  width: 300px;
+  height: 200px;
+}
+.surfer4 {
+  width: 300px;
+  height: 200px;
+}
+figure{
+  color: yellow;
+  font-family: Pacifico;
+}
